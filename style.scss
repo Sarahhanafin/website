@@ -1,0 +1,11 @@
+$primary-color:#00f;
+$secondary-color:#ddd;
+$third-color: #da0;
+body{
+    background-color: $secondary-color;
+    color: $primary-color;
+}
+
+h1{
+    color: $third-color;
+}
